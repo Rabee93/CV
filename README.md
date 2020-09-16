@@ -26,7 +26,7 @@ My style of work consists of breaking down and understanding the requirements of
 | Project | Description | Technologies |
 |-|-|-|
 | [ChooseMyPlant](https://github.com/Rabee93/ChooseMyPlant) | This was our final team project. User can create a profile and click on a button to generate a random plant from an API and then they can choose to add it to their wishlist or not. Plants can be deleted from the wishlist.  | IOS development, Swift, Firebase, API|
-| [Acebook](https://github.com/Rabee93/acebook-dreambook-2020). | This project allows users to create profiles and then add posts which then can be deleted and eidted and other users can comment as well.|Ruby on Rails, HTML, CSS, Haroku |
+| [Acebook](https://github.com/Rabee93/acebook-dreambook-2020)| This project allows users to create profiles and then add posts which then can be deleted and eidted and other users can comment as well.|Ruby on Rails, HTML, CSS, Haroku |
 | [Bank Tech Test](https://github.com/Rabee93/bank_account) | This is a simple project that generates bank statments. <br> The focus on this project was to follow TDD, DRY, SOLID and Acceptance criteria. | Ruby, HTML |
 ----
 
