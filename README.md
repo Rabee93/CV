@@ -53,12 +53,11 @@ My style of work consists of breaking down and understanding the requirements of
   - *Learning skills to become programming language agnostic using:* **Ruby**, **Rails**, **Javascript**, **Swift**, **SQL**, **Diagrams**, **HTML5/CSS**
   - **User Stories**
   - *Linting*, *code quality*, *test coverage* with **rubocop**, **simplecov**
-  - <a title = "Continuous Integration/Continuous Deployment/Continuous Delivery">**CI/CD**</a> pipeline with **TravisCI**, **CircleCI** and **Heroku**
   - **Agile** (~2 week) group projects: **Trello**, <a title = "Minimum Viable Product">**MVP**</a>, **pairing** in 2-day **sprints**, **stand-ups**, **mood check-ins** and **retros**
 
 ### BPP University, Msc Management and finance(2016 - 2017), United Kingdom 
  
-#### Alfaisal university, BSc Business Administration (2010-2014), Saudi Arabia 
+### Alfaisal university, BSc Business Administration (2010-2014), Saudi Arabia 
 
 **statistics**, **pre-calculus**, **business calculs**, **project management**
 
