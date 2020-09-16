@@ -1,40 +1,118 @@
-## Your Name
+<!DOCTYPE html>
 
-Resilient and able to bounce back from stressful situations, imaginative, forward-thinking, excellent at solving problems. Driven by results, looking to build a strong experience as a Junior Fullstack developer. After completing my Bachelors degree in Saudi Arabia, I got an internship as a project assistant at Alrajhi Bank and then worked at our family mnufactoring business whilest I was competing in kickboxing. After that, I moved to the U.K as a student to complete my masters degree and work.
+<h1 align="center">Rabee Mghrabi</h1>
+
+<div align="center">
+
+[<img src="./icons/github.svg" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/Rabee93)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/rabee-mghrabi-a81678a1/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/Rabee93)
+
+<em>
+                                  Why did I want to be a developer? <br>
+      Because I’m motivated by creating websites and apps that can solve problems and make life easier to people<br><br>
+</em>
+</div>
+<br>
+
+## About Me
+
+A recent Maker’s academy graduate whos driven by learning new technologies and solving problems, comfortable following TDD using Javascript and Ruby. Since graduating i’ve been creating new projects and continuing to learn new technologies that I would like to utilise as a full-stack software developer. 
+My style of work consists of breaking down and understanding the requirements of the project using tools such as trello-board and google diagram to reach consensus with the team. As a person who's creative and a problem solver, coding enabled me to express these sides of me which is the reason why I decided to learn how to code.  
+
+
+<br>
+
+## Projects
+
+| Project | Description | Technologies |
+|-|-|-|
+| [ChooseMyPlant](https://github.com/Rabee93/ChooseMyPlant) | This was our final team project. User can create a profile and click on a button to generate a random plant from an API and then they can choose to add it to their wishlist or not. Plants can be deleted from the wishlist.  | IOS development, Swift, Firebase, API|
+| [Acebook](https://github.com/Rabee93/acebook-dreambook-2020). | This project allows users to create profiles and then add posts which then can be deleted and eidted and other users can comment as well. Ruby on Rails, HTML, CSS, Haroku |
+| [Bank Tech Test](https://github.com/Rabee93/bank_account) | This is a simple project that generates bank statments. <br> The focus on this project was to follow TDD, DRY, SOLID and Acceptance criteria. | Ruby, HTML |
+----
+
+<br>
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+- Communication and teamwork: Whilest I was a student at Makers, whenever we started a Project in a team I would listen and understand what other team-mates wanted to include in the project and add suggestions if needed. Moreover, before joining Makers I worked as a Mentor in a Charity and enjoyed listening and understanding what my mentee needed from me. 
 
+- Time management: Before starting a team project we would plan if we could finish the MVP and the whole project before their deadlines using trello-board and diagrams, we would also consider breaks and a reflection at the end of the day to decide and plan what team memebers shoudl do the next day.
+
+- Problem solving: completed few debugging workshops as a student in makers. 
+
+<br>
 
 ## Education
 
-#### Makers Academy/Intensive coding bootcamp (May 2020 to Aug 2020)
--Ruby
+### Makers Coding Bootcamp (May 2020 - August 2020)
 
-#### BPP / Business (2016 to 2017) United Kingdom
-- Msc Management
-- 2:2
+16 week immersive coding bootcamp
 
-#### Alfaisal / Business with project management (2010 to 2014) Saudi Arabia 
-- Bsc Business Administration
-- GPA 2.99/4
-- statistics, pre-calculus, business calculs, projetc management.
+- **Applying industry-standard practices:**
+  - <a title = "Programming paradigm">**OOP**</a>, <a title = "Software Development Process">**TDD**</a> and <a title = "Software Development Process">**BDD**</a>, with testing frameworks: **RSpec**, **Jasmine**, **Capybara**
+  - *Learning skills to become programming language agnostic using:* **Ruby**, **Rails**, **Javascript**, **Swift**, **SQL**, **Diagrams**, **HTML5/CSS**
+  - **User Stories**
+  - *Linting*, *code quality*, *test coverage* with **rubocop**, **simplecov**
+  - <a title = "Continuous Integration/Continuous Deployment/Continuous Delivery">**CI/CD**</a> pipeline with **TravisCI**, **CircleCI** and **Heroku**
+  - **Agile** (~2 week) group projects: **Trello**, <a title = "Minimum Viable Product">**MVP**</a>, **pairing** in 2-day **sprints**, **stand-ups**, **mood check-ins** and **retros**
+
+### BPP University, Msc Management and finance(2016 - 2017), United Kingdom 
+ 
+#### Alfaisal university, BSc Business Administration (2010-2014), Saudi Arabia 
+
+**statistics**, **pre-calculus**, **business calculs**, **project management**
+
+<br>
 
 ## Experience
 
-**Migrants Organise** (Oct 2018 to Apr 2019)    
-*Mentor*  
+### Migrants Organise (2018 to 2019), United Kingdom   
+#### *Mentor*  
 
-**Belgravia Advisers** (Jan 2018 to Oct 2018)   
-*Student Councellor*  
+- Organised English classes for refugees.
 
-**Label Graphics** (Sep 2014 to Dec 2015)
-*Sales Representative*
+- Mentored refugees by providing them with information on their new life in Britain and taking them on tours around London.
 
-**Alrajhi Bank** (June 2014 to Aug 2015)
-*Project assistant*
+- Assisted in office work including receiving phone calls and file organisation.
 
-## Hobbies
-- Martial Arts: I used to compete in kickboxing and now I'm learning Brazilian jujitsu
-- Day-trip traveling: I enjoy traveling and exploring different parts of the U.K. on saturdays in an organized group.
+### Belgravia Advisers (2017 to 2018), United Kingdom    
+#### *Assistant student councellor*  
+
+- Initiated contact with several universities and educational service providers in the uk to facilitate the enrolment process of prospective students.
+
+- Communicated with new students to ensure that their requirements for the new school year is met.
+
+- Responsible for planning, negotiating and promoting the intake of internship into the current program.
+
+- Assisted in planning, promoting and organising a two-week conference with entrepreneur speakers to providers students with insight in starting their own business.
+
+- Responsible for travel and accommodation arrangements including planning itineraries and schedules.
+
+- Responsible for the setup of meeting materials and refreshments during the day.
+
+- Performed administrative duties including answering phones, mail sorting and data entry while maintaining company standards.
+
+
+###  Label Graphics (2014 to 2015), Saudi Arabia    
+#### *Sales represantative*  
+
+- Performed administrative duties including answering phones and insuring labels met company standards before being delivered to the customer.
+
+### Alrajhi Capital (2014 to 2015), Saudi Arabia
+#### *Project Assistant*  
+
+- Performed administrative duties including answering phones and data entry tasks for project managers.
+
+- Assistant to project managers in the proposal preparation projects, contracts, implementation and business activities.
+
+- Maintained confidentiality regarding sensitive data client lists and financial information.
+
+- Initiated and prepared requisitions for materials supplies and service
+<br>
+
+## Hobbies & Other Interests
+
+- 🥋 **Martial arts:** I practice Brazilian Jujitsu 3-5 times every week and I'm planning on competing.
+- 💻 **Tech:** I attend coding Meetups and socialise with tech professionals to build my network and learn about the latest things in the industry.
+- ✈️ **Traveling:** I'm an active memeber of a Meetup group that holds day-trips every Saturday around the U.K.
+- 🎲 **Games:** Playing puzzle video games and board games.
