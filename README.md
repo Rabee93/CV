@@ -34,9 +34,9 @@ My style of work consists of breaking down and understanding the requirements of
 
 ## Skills
 
-- Communication and teamwork: Whilest I was a student at Makers, whenever we started a Project in a team I would listen and understand what other team-mates wanted to include in the project and add suggestions if needed. Moreover, before joining Makers I worked as a Mentor in a Charity and enjoyed listening and understanding what my mentee needed from me. 
+- Communication and teamwork: Whilest I was a student at Makers, whenever I started a Project in a team I would listen and understand what other team-mates wanted to include in the project and add suggestions if needed. Moreover, before joining Makers I worked as a Mentor in a Charity and enjoyed listening and understanding what my mentee needed from me before planning a tour for them. 
 
-- Time management: Before starting a team project we would plan if we could finish the MVP and the whole project before their deadlines using trello-board and diagrams, we would also consider breaks and a reflection at the end of the day to decide and plan what team memebers shoudl do the next day.
+- Time management: Before starting a team project I would plan if we could finish the MVP and the whole project before their deadlines using trello-board and diagrams, I would also consider breaks and a reflection at the end of the day to decide and plan what team memebers should do the next day.
 
 - Problem solving: completed few debugging workshops as a student in makers. 
 
