@@ -34,7 +34,7 @@ My style of work consists of understanding the acceptance criteria by breaking d
 
 <br>
 
-## Skills
+## Skills 🕵️‍
 
 - Communication and teamwork: Whilest I was a student at Makers, whenever I started a Project in a team I would listen and understand what other team-mates wanted to include in the project and add suggestions if needed. Moreover, before joining Makers I worked as a Mentor in a Charity and enjoyed listening and understanding what my mentee needed from me before planning a tour for them. 
 
@@ -44,7 +44,7 @@ My style of work consists of understanding the acceptance criteria by breaking d
 
 <br>
 
-## Education
+## Education 📚
 
 ### Makers Coding Bootcamp (May 2020 - August 2020)
 
@@ -65,7 +65,7 @@ My style of work consists of understanding the acceptance criteria by breaking d
 
 <br>
 
-## Experience
+## Experience 💼
 
 ### Migrants Organise (2018 to 2019), United Kingdom   
 #### *Mentor*  
@@ -111,9 +111,9 @@ My style of work consists of understanding the acceptance criteria by breaking d
 - Initiated and prepared requisitions for materials supplies and service
 <br>
 
-## Hobbies & Other Interests
+## Hobbies & Other Interests 🏅
 
 - 🥋 **Martial arts:** I practice Brazilian Jujitsu 3-5 times every week and I'm planning on competing.
-- 💻 **Tech:** I attend coding Meetups and socialise with tech professionals to build my network and learn about the latest things in the industry.
+- 💻 **Tech:** I attend coding Meetups and socialise with tech professionals to build my network and learn about the latest things in the industry. Also I read and join online courses such as Udemy and Codeacademy to learn new technologies.
 - ✈️ **Traveling:** I'm an active memeber of a Meetup group that holds day-trips every Saturday around the U.K.
 - 🎲 **Games:** Playing puzzle video games and board games.
