@@ -8,7 +8,7 @@
 
 <em>
                                   Why did I want to be a developer? <br>
-  I enjoy creating things that can change the world, disrupt industries and ignite social change but at the same time allows me to express myself creatively.
+  I enjoy creating things that can change the world, disrupt industries and ignite social change and at the same time allows me to express myself creatively.
 
 <br><br>
 </em>
