@@ -8,7 +8,9 @@
 
 <em>
                                   Why did I want to be a developer? <br>
-      Because I’m motivated by creating websites and apps that can solve problems and make life easier to people<br><br>
+  I enjoy creating things that can change the world, disrupt industries and ignite social change but at the same time allows me to express myself creatively.
+
+<br><br>
 </em>
 </div>
 <br>
