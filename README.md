@@ -15,7 +15,7 @@
 
 ## About Me
 
-A recent Maker’s academy graduate who's driven by learning new technologies and solving problems, comfortable following TDD using Javascript and Ruby. Since graduating i’ve been creating new projects and continuing to learn new technologies that I would like to utilise as a professional software developer. 
+A recent Makers academy graduate who's driven by learning new technologies and solving problems, comfortable following TDD using Javascript and Ruby. Since graduating i’ve been creating new projects and continuing to learn new technologies that I would like to utilise as a professional software developer. 
 My style of work consists of understanding the acceptance criteria by breaking down and understanding the requirements of the project using tools such as trello-board and google diagram to reach consensus with the team. I’m motivated by creating websites and apps that can solve problems and make life easier to people. 
 
 
