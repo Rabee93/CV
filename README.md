@@ -8,9 +8,7 @@
 
 <em>
                                   Why did I want to be a developer? <br>
-  I enjoy creating things that can change the world, disrupt industries and ignite social change and at the same time allows me to express myself creatively.
-
-<br><br>
+      Because I’m motivated by creating websites and apps that can solve problems and make life easier to people<br><br>
 </em>
 </div>
 <br>
@@ -38,15 +36,12 @@ My style of work consists of understanding the acceptance criteria by breaking d
 
 ## Skills 🕵️‍
 
-- I'm imaginative and forward-thinking, do not mind venturing into unknown territory and enthusiastic about change and innovation. i'm good at coming up with new ideas, and using my creativity to solve complex problems.
+- Communication and teamwork: Whilest I was a student at Makers, whenever I started a Project in a team I would listen and understand what other team-mates wanted to include in the project and add suggestions if needed. Moreover, before joining Makers I worked as a Mentor in a Charity and enjoyed listening and understanding what my mentee needed from me before planning a tour for them. 
 
-- Great at cooperating with others and look for compromise when I can, but I'm careful not to sacrifice success and advancement. i'm able to get along with other people and function well in a team.
+- Time management: Before starting a team project I would plan if we could finish the MVP and the whole project before their deadlines using trello-board and diagrams, I would also consider breaks and a reflection at the end of the day to decide and plan what team memebers should do the next day.
 
-- Good at balancing structure and flexibility: I know how to plan ahead and set goals, while still being open to opportunities that arise in the moment. Although I like to stay organised and on-track when possible, I'm comfortable with a certain level of uncertainty and are ready to adapt when circumstances change.
+- Problem solving: completed few debugging workshops as a student in makers. 
 
-- Good at coping with the stress levels of a typical job and are unlikely to become anxious, depressed, or upset due to the demands of my work. Generally resilient and able to bounce back from stressful situations.
-
-- Excellent at motivating myself and working on my own. Independent and self-contained, and able to work for long stretches by myself. I spend plenty of time reflecting and analysing, and take a thoughtful, serious approach to my work.
 <br>
 
 ## Education 📚
