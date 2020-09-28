@@ -26,7 +26,7 @@ My style of work consists of understanding the acceptance criteria by breaking d
 
 | Project | Description | Technologies |
 |-|-|-|
-| [ChooseMyPlant](https://github.com/Rabee93/ChooseMyPlant) | This was our final team project. User can create a profile and click on a button to generate a random plant from an API and then they can choose to add it to their wishlist or not. Plants can be deleted from the wishlist.  | IOS development, Swift, Firebase, API|
+| [Takeaway-dice](https://github.com/Rabee93/takeaway-dice | This is a personal project that I made, geberates random cuisines and shows the close one based on the chosen cuisine .  | IOS development, Swift, API|
 | [Acebook](https://github.com/Rabee93/acebook-dreambook-2020)| This project allows users to create profiles and then add posts which then can be deleted and eidted and other users can comment as well.|Ruby on Rails, HTML, CSS, Haroku |
 | [Bank Tech Test](https://github.com/Rabee93/bank_account) | This is a simple project that generates bank statments. <br> The focus on this project was to follow TDD, DRY, SOLID and Acceptance criteria. | Ruby, HTML |
 | [Thermostat](https://github.com/Rabee93/Thermostat)| This project mimics a thermostat while using an API to show the tempreture of different countries .|Javascript, JQuery, HTML, CSS, API |
@@ -114,6 +114,6 @@ My style of work consists of understanding the acceptance criteria by breaking d
 ## Hobbies & Other Interests 🏅
 
 - 🥋 **Martial arts:** I practice Brazilian Jujitsu 3-5 times every week and I'm planning on competing.
-- 💻 **Tech:** I attend coding Meetups and socialise with tech professionals to build my network and learn about the latest things in the industry. Also I read and join online courses such as Udemy and Codeacademy to learn new technologies.
+- 💻 **Tech:** I attend coding Meetups and socialise with tech professionals to build my network and learn about the latest things in the industry. Also I join online courses such as Udemy and Codeacademy to learn new technologies.
 - ✈️ **Traveling:** I'm an active memeber of a Meetup group that holds day-trips every Saturday around the U.K.
 - 🎲 **Games:** Playing puzzle video games and board games.
