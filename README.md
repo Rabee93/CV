@@ -110,5 +110,5 @@ My style of work consists of understanding the acceptance criteria by breaking d
 
 - 🥋 **Martial arts:** I practice Brazilian Jujitsu 3-5 times every week and I'm planning on competing.
 - 💻 **Tech:** I attend coding Meetups and socialise with tech professionals to build my network and learn about the latest things in the industry. Also I join online courses such as Udemy and Codeacademy to learn new technologies.
-- ✈️ **Traveling:** Whenever possible, I like to join a meetup group that holds day-trips every Saturday around the U.K.
+- ✈️ **Traveling:** I enjoy joining a meetup group that holds day-trips every Saturday around the U.K.
 - 🎲 **Games:** Playing puzzle video games and board games.
