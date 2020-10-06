@@ -36,9 +36,9 @@ My style of work consists of understanding the acceptance criteria by breaking d
 
 ## Strengths 🕵️‍
 
-- I'm imaginative and forward-thinking, do not mind venturing into unknown territory and enthusiastic about change and innovation. i'm good at coming up with new ideas, and using my creativity to solve complex problems debugging. 
+- Imaginative and forward-thinking, do not mind venturing into unknown territory and enthusiastic about change and innovation. i'm good at coming up with new ideas, and using my creativity to solve complex problems debugging. 
 
-- I'm great at cooperating with others and look for compromise when I can, but I'm careful not to sacrifice success and advancement. i'm able to get along with other people and function well in a team.
+- Great at cooperating with others and look for compromise when I can, but I'm careful not to sacrifice success and advancement. i'm able to get along with other people and function well in a team.
 
 - Good at balancing structure and flexibility: I know how to plan ahead and set goals in a project, while still being open to opportunities that arise in the moment. Although I like to stay organised and on-track when possible, I'm comfortable with a certain level of uncertainty and are ready to adapt when circumstances change.
 
