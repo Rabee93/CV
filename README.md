@@ -27,10 +27,10 @@ My style of work consists of understanding the acceptance criteria by breaking d
 | Project | Description | Technologies |
 |-|-|-|
 | [Takeaway-dice](https://github.com/Rabee93/takeaway-dice) | This is a personal project that I made, generates random cuisines and shows the nearest restaurants based on the chosen cuisine .  | IOS development, Swift, API|
-| [Acebook](https://github.com/Rabee93/acebook-dreambook-2020)| This project allows users to create profiles and then add posts which then can be deleted and edited and other users can comment as well.|Ruby on Rails, HTML, CSS, Haroku |
+| [Acebook](https://github.com/Rabee93/acebook-dreambook-2020)| This project allows users to create profiles and then add posts which then can be deleted and edited and other users can comment as well.|Ruby on Rails, HTML, CSS, Heroku |
 | [Bank Tech Test](https://github.com/Rabee93/bank_account) | This is a simple project that generates bank statments. <br> The focus on this project was to follow TDD, DRY, SOLID and Acceptance criteria. | Ruby, HTML |
 | [Thermostat](https://github.com/Rabee93/Thermostat)| This project mimics a thermostat while using an API to show the tempreture of different countries .|Javascript, JQuery, HTML, CSS, API |
-| [Chitter](https://github.com/Rabee93/chitter-challenge) | This is an applicatoin that's similar to Twitter. <br> . | Ruby, HTML, Sinatra, SQL |
+| [Chitter](https://github.com/Rabee93/chitter-challenge) | This is an applicatoin that's similar to Twitter. <br> | Ruby, HTML, Sinatra, SQL |
 ----
 
 <br>
