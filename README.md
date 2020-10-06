@@ -13,7 +13,7 @@
 </div>
 <br>
 
-## About Me
+## About Me 🕵️‍
 
 A recent Makers academy graduate who's driven by learning new technologies and solving problems, comfortable following TDD using Javascript and Ruby. Since graduating i’ve been creating new projects and continuing to learn new technologies that I would like to utilise as a professional software developer. 
 My style of work consists of understanding the acceptance criteria by breaking down and understanding the requirements of the project using tools such as trello-board and google diagram to reach consensus with the team. I’m motivated by creating websites and apps that can solve problems and make life easier for people. 
@@ -22,7 +22,7 @@ My style of work consists of understanding the acceptance criteria by breaking d
 
 <br>
 
-## Projects
+## Projects 🛠
 
 | Project | Description | Technologies |
 |-|-|-|
@@ -30,11 +30,12 @@ My style of work consists of understanding the acceptance criteria by breaking d
 | [Acebook](https://github.com/Rabee93/acebook-dreambook-2020)| This project allows users to create profiles and then add posts which then can be deleted and edited and other users can comment as well.|Ruby on Rails, HTML, CSS, Haroku |
 | [Bank Tech Test](https://github.com/Rabee93/bank_account) | This is a simple project that generates bank statments. <br> The focus on this project was to follow TDD, DRY, SOLID and Acceptance criteria. | Ruby, HTML |
 | [Thermostat](https://github.com/Rabee93/Thermostat)| This project mimics a thermostat while using an API to show the tempreture of different countries .|Javascript, JQuery, HTML, CSS, API |
+| [Chitter](https://github.com/Rabee93/chitter-challenge) | This is an applicatoin that's similar to Twitter. <br> . | Ruby, HTML, Sinatra, SQL |
 ----
 
 <br>
 
-## Strengths 🕵️‍
+## Strengths 💪
 
 - Imaginative and forward-thinking, do not mind venturing into unknown territory and enthusiastic about change and innovation. i'm good at coming up with new ideas, and using my creativity to solve complex problems debugging. 
 
